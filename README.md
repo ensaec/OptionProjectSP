@@ -40,4 +40,4 @@ Each file in this project can be executed independently. To run any of the scrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ensaec/OptionPricingProject.git
+   git clone https://github.com/ensaec/OptionPricingSP.git
